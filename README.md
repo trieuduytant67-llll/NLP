@@ -1,8 +1,12 @@
 # NLP - Projects
-
+========================================================================================
+18/9/2025
+- i follow the step  that was asked in topics
+- most of the error/ time fixing error was form syntax error and wrong directory
 Lab_01
 
 result:
+
 --- Test on sentences ---
 
 Original: Hello, world! This is a test.
@@ -36,4 +40,6 @@ result:
 [1, 0, 0, 1, 0, 1, 1, 0, 0, 0]
 [1, 0, 0, 1, 0, 1, 0, 0, 1, 0]
 [1, 1, 1, 0, 1, 0, 1, 1, 0, 1]
->>> 
+
+
+========================================================================================
