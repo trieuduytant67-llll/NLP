@@ -1,11 +1,14 @@
 # NLP - Projects
-========================================================================================
+===========================================================================
+
 18/9/2025
 - i follow the step  that was asked in topics
 - most of the error/ time fixing error was form syntax error and wrong directory
-Lab_01
-
+- i ask GPT about a few error and that mostly it
+  
 result:
+
+Lab_01:
 
 --- Test on sentences ---
 
@@ -28,10 +31,8 @@ SimpleTokenizer Output (first 20 tokens): ['al-zaman', ':', 'american', 'forces'
 RegexTokenizer Output (first 20 tokens): ['al', '-', 'zaman', ':', 'american', 'forces', 'killed', 'shaikh', 'abdullah', 'al', '-', 'ani', ',', 'the', 'preacher', 'at', 'the', 'mosque', 'in', 'the']
 
 
-Lab_02
 
-result:
-
+Lab_02:
 
 --- Vocabulary ---
 {'.': 0, 'a': 1, 'ai': 2, 'i': 3, 'is': 4, 'love': 5, 'nlp': 6, 'of': 7, 'programming': 8, 'subfield': 9}
