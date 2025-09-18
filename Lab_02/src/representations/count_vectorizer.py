@@ -12,7 +12,7 @@ class CountVectorizer(Vectorizer):
             tokens = self.tokenizer.tokenize(doc)
             unique_tokens.update(tokens)
 
-        # Sort to ensure consistent index ordering
+        # Sort so index order is correct
         self.vocabulary_ = {token: idx for idx, token in enumerate(sorted(unique_tokens))}
 
     def transform(self, documents: List[str]) -> List[List[int]]:
