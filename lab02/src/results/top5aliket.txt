@@ -1,0 +1,36 @@
+--- Top 5 Similar Documents to the First Document ---
+Output file generated at: C:\Users\STMTLS\AppData\Local\Temp\scala3\src\results\top5aliket.txt
+
+================================================================================
+Doc Index: 440
+Cosine Similarity: 0.0858
+Text Snippet: Check out the Italian Pasta Salad calories and how many carbs in Italian Pasta Salad. Learn all the nutrition facts about what you eat at GymAmerica.
+Tip: Click on the ingredient links to learn the nu...
+================================================================================
+
+================================================================================
+Doc Index: 984
+Cosine Similarity: 0.0789
+Text Snippet: Enjoy our variety of meat cuts prepared with authentic Southern Brazilian Style using our open fire grill to unleash all meat flavors, this is what we call ?Churrasco? (Brazilian barbecue). All of our...
+================================================================================
+
+================================================================================
+Doc Index: 54
+Cosine Similarity: 0.0784
+Text Snippet: Know Buckeye Trail Class of 2001 graduates that are NOT on this List? Help us Update the 2001 Class List by adding missing names.
+More 2001 alumni from Buckeye Trail HS have posted profiles on Classma...
+================================================================================
+
+================================================================================
+Doc Index: 278
+Cosine Similarity: 0.0739
+Text Snippet: Class A Burn Prop - Stove Simulator With Overhead Burn Hood - Fire Facilities, Inc.
+The stove simulator assembly consists of 1/4” thick prime painted angles and 12 gage stainless steel panels bolted t...
+================================================================================
+
+================================================================================
+Doc Index: 684
+Cosine Similarity: 0.0722
+Text Snippet: Many students have never been to a museum before. While we want children to respect the museum and its artwork, tours emphasize interaction—we encourage students to talk about what they see and ask qu...
+================================================================================
+
