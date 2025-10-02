@@ -13,6 +13,10 @@ Implementation
    - Persisted the final feature vectors to lab17_pipeline_output.txt in the same directory as the code.
 5. Logging:
    - Recorded job start/end time, performance metrics, and any errors to lab17_metrics.log.
+6. Add a `limitDocuments` variable to control how many documents to process during testing.
+7. Implement a cosine similarity search to find and display the top K most similar documents:
+   - Results are printed to the console.
+   - Results are also written to `src/results/top5aliket.txt`.
 
 How to Run the Code and Log Results
 -----------------------------------
@@ -38,3 +42,6 @@ Difficulties Encountered and Solutions
 Pre-trained Models
 ------------------
 - None
+
+
+the above is mine, add the following (skip if alredy done):
