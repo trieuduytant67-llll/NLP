@@ -34,7 +34,7 @@ This repository contains a comprehensive series of Natural Language Processing (
 └── README.md                     # This file
 ```
 
-## 📚 Lab Descriptions
+## Lab Descriptions
 
 ### **Lab 1: Tokenization & Preprocessing**
 - **Topics**: Text preprocessing, tokenization (simple & regex-based)
@@ -97,7 +97,7 @@ Sub-divided into multiple components:
 - **Key Insight**: Understanding when to use encoder vs decoder-only models
 - **Files**: `notebook/lab6.ipynb`, `report/lab6.md`
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 ### Prerequisites
 ```bash
@@ -130,7 +130,7 @@ jupyter notebook
   - Challenges faced and solutions
   - Key insights and conclusions
 
-## 📊 Key Concepts Covered
+## Key Concepts Covered
 
 | Topic                 | Lab |
 |-------                |-----|
@@ -143,7 +143,7 @@ jupyter notebook
 | Transformers          | 6 |
 | BERT/GPT              | 6 |
 
-## 📝 Notes on Data
+## Notes on Data
 
 - The `data/` directory contains only **structure and schema files**, not actual datasets
 - Large data files are ignored by `.gitignore` to keep repository size manageable
@@ -153,7 +153,7 @@ jupyter notebook
   - Lab 5: CLINC Intent Detection, UD English EWT
   - Lab 6: General datasets from Hugging Face/Transformers library
 
-## 🔗 Resources & References
+## Resources & References
 
 - [PyTorch Documentation](https://pytorch.org/docs/)
 - [Transformers Library (Hugging Face)](https://huggingface.co/docs/transformers/)
@@ -172,7 +172,8 @@ By completing these labs, I  understand:
 - Modern transformer models (BERT, GPT) and their applications
 - Practical implementation using PyTorch and modern NLP libraries
 
-## 📄 License
+## License
 
 
 This repository is for educational purposes.
+
