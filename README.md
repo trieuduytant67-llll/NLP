@@ -1,10 +1,10 @@
 # NLP Labs - Natural Language Processing Study Projects
 
-## 📋 Overview
+## Overview
 
 This repository contains a comprehensive series of Natural Language Processing (NLP) laboratories covering fundamental concepts to advanced deep learning techniques. Each lab is structured with clear documentation, source code, and detailed reports.
 
-## 🏗️ Repository Structure
+## Repository Structure
 
 ```
 ./
@@ -173,5 +173,6 @@ By completing these labs, I  understand:
 - Practical implementation using PyTorch and modern NLP libraries
 
 ## 📄 License
+
 
 This repository is for educational purposes.
