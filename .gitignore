@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# PyCharm
+.pytest_cache/
+
+# Data files (too large for versioning)
+data/
+*.json
+*.csv
+*.txt
+*.parquet
+*.pkl
+*.pickle
+
+# Colab backups
+*-Colab.pdf
+*.ipynb - Colab.pdf
+
+# Large model files
+*.bin
+*.model
+*.pt
+*.pth
+
+# Log files
+*.log
+logs/
+
+# Results and outputs
+results/
+output/
+*.output
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scala/SBT specific
+target/
+.scala_dependencies
+.sbtserver
+.bsp/
+
+# Keep structure but not content for data documentation
+!data/README.md
+!data/schema.md
+!data/description.txt
