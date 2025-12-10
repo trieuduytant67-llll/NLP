@@ -43,10 +43,16 @@ This directory contains datasets used across the NLP labs.
 - Same as Lab 1-2
 - **Format**: `.conllu` with CoNLL-U annotations
 
-### Lab 6: General Text Data
-- **Source**: Hugging Face Datasets and Transformers library
-- **Format**: Automatically handled by library loaders
-- **Content**: Used for BERT/GPT demonstrations
+### Lab 6: General Text Data and Dependency Parsing
+- **Source**: Hugging Face Datasets and Transformers library; UD English Web Treebank for dependency parsing
+- **Format**: Automatically handled by library loaders or CoNLL-U for UD data
+- **Content**: Used for BERT/GPT demonstrations and dependency parsing examples (UD English-EWT)
+
+**Obtaining UD English-EWT (example)**
+```powershell
+# download a CoNLL-U file from the Universal Dependencies repo
+curl -L -o en_ewt-ud-train.conllu https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-train.conllu
+```
 
 ## How to Obtain Datasets
 

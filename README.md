@@ -21,7 +21,8 @@ This repository contains a comprehensive series of Natural Language Processing (
 │   ├── lab3.md
 │   ├── lab4.md
 │   ├── lab5_*.md                # Multiple lab5 sub-reports
-│   └── lab6.md
+│   ├── lab6.md
+│   └── lab6_dependency_parsing.md   # Dependency parsing report (separate)
 ├── notebook/                     # Jupyter notebooks for interactive experimentation
 │   ├── lab3.ipynb
 │   ├── lab4.ipynb
@@ -85,17 +86,19 @@ Sub-divided into multiple components:
 - Core PyTorch and neural network concepts
 - Files: `notebook/lab5_main.ipynb`, `report/lab5_main.md`
 
-### **Lab 6: Transformer Models (BERT & GPT)**
-- **Topics**: Understanding transformer architecture, BERT vs GPT
+### **Lab 6: Transformer Models (BERT & GPT) and Dependency Parsing**
+- **Topics**: Understanding transformer architecture, BERT vs GPT, and dependency parsing with spaCy
 - **Models**:
   - **BERT**: Masked language modeling, bidirectional encoding
   - **GPT**: Text generation, left-to-right decoding
+- **Dependency Parsing**: spaCy (`en_core_web_md`) demonstration and extraction utilities
 - **Applications**: 
   - Masked token prediction (BERT)
   - Text generation (GPT)
   - Sentence embeddings extraction
-- **Key Insight**: Understanding when to use encoder vs decoder-only models
-- **Files**: `notebook/lab6.ipynb`, `report/lab6.md`
+  - Dependency parsing visualizations and lightweight relation extraction
+- **Key Insight**: Understanding when to use encoder vs decoder-only models; dependency parses enable syntactic relation extraction
+- **Files**: `notebook/lab6.ipynb`, `notebook/lab6_dependency_parsing.ipynb`, `report/lab6.md`, `report/lab6_dependency_parsing.md`
 
 ## How to Use This Repository
 
@@ -174,6 +177,4 @@ By completing these labs, I  understand:
 
 ## License
 
-
 This repository is for educational purposes.
-

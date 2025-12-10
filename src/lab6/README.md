@@ -40,10 +40,13 @@ Lab 6 explores transformer-based models, particularly BERT and GPT, for various 
 
 ## Files
 - Main notebook: `../../notebook/lab6.ipynb`
+- Dependency parsing notebook: `../../notebook/lab6_dependency_parsing.ipynb`
 - Report: `../../report/lab6.md`
+- Dependency parsing report: `../../report/lab6_dependency_parsing.md`
 
 ## How to Run
-See the notebook in `notebook/lab6.ipynb` for interactive execution.
+- See the notebook in `notebook/lab6.ipynb` for transformer demonstrations.
+- See `notebook/lab6_dependency_parsing.ipynb` for dependency parsing examples and helper utilities.
 
 ## Key Insights
 - BERT is ideal for understanding and representation learning
